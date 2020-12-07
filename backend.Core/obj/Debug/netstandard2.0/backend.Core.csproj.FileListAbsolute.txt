@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Project\SaaS\backend.Core\bin\Debug\netstandard2.0\backend.Core.deps.json
+C:\Users\DELL\Desktop\Project\SaaS\backend.Core\bin\Debug\netstandard2.0\backend.Core.dll
+C:\Users\DELL\Desktop\Project\SaaS\backend.Core\obj\Debug\netstandard2.0\backend.Core.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project\SaaS\backend.Core\obj\Debug\netstandard2.0\backend.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Project\SaaS\backend.Core\obj\Debug\netstandard2.0\backend.Core.AssemblyInfo.cs
